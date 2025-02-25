@@ -36,7 +36,7 @@ For some SuiteSparse:GraphBLAS extensions, this requires renaming some identifie
 
 The introductory chapters (Chapters 1 and 2) of the [GraphBLAS C API Specification](https://graphblas.org/docs/GraphBLAS_API_C_v2.0.0.pdf) largely also apply to forGraphBLASGo. See the [Go API documentation](https://pkg.go.dev/github.com/slushydisas/forGraphBLASGo) for how the concepts translate to forGraphBLASGo.
 
-Except as otherwise noted, the API documention for forGraphBLASGo is derived from the The GraphBLAS C API Specification, version 2.0.0, authored by Benjamin Brock, Aydın Buluç, Timothy Mattson, Scott McMillan, and José Moreira. That material is licensed under a Creative Commons Attribution 4.0 license (http://creativecommons.org/licenses/by/4.0/legalcode).
+Except as otherwise noted, the API documentation for forGraphBLASGo is derived from the The GraphBLAS C API Specification, version 2.0.0, authored by Benjamin Brock, Aydın Buluç, Timothy Mattson, Scott McMillan, and José Moreira. That material is licensed under a Creative Commons Attribution 4.0 license (http://creativecommons.org/licenses/by/4.0/legalcode).
 
 Large sections are also derived from the [User Guide for SuiteSparse:GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS/blob/stable/Doc/GraphBLAS_UserGuide.pdf) authored by Timothy A. Davis, especially regarding the SuiteSparse:GraphBLAS extensions that are incorporated into forGraphBLASGo.
 
